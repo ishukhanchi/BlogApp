@@ -1,0 +1,15 @@
+{% load static %}
+
+<link href="{% static 'blogapp/index.css' %}"
+
+Here is a list of all blogs.
+
+<ul>
+		
+{% for blog in blogs %}
+	<li><a href="{% url 'detail' blog.id %}">
+		{{blog.title}}</a>
+     </li>
+{% endfor %}
+
+</ul>
