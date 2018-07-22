@@ -1,7 +1,7 @@
 # BlogApp
 A blog app where articles along with the pictures can be posted.
 
-Steps to setup:
+# Steps to setup:
 
     Clone the repository. git clone [https://github.com/ishukhanchi/BlogApp.git](https://github.com/ishukhanchi/BlogApp.git)
     Change directory to repository. cd BlogApp 
@@ -9,7 +9,7 @@ Steps to setup:
     To stop serving the website, press ctrl+c.
     If you want to again run the server, use the run script again, it won't setup virtual environment again and install requirements.
 
-To modify the code:
+# To modify the code:
 
     Run the setup script. ./run
     Stop the server and activate the virtual environment. source venv/bin/activate
