@@ -1,7 +1,7 @@
 # BlogApp
 A blog app where articles along with the pictures can be posted.
 
-# Steps to setup:
+## Steps to setup:
 
 Clone the repository. git clone [https://github.com/ishukhanchi/BlogApp.git](https://github.com/ishukhanchi/BlogApp.git)<br>
     Change directory to repository. cd BlogApp <br>
@@ -11,7 +11,7 @@ Clone the repository. git clone [https://github.com/ishukhanchi/BlogApp.git](htt
 
     
 
-# To modify the code:
+## To modify the code:
 
     Run the setup script. ./run<br>
     Stop the server and activate the virtual environment. source venv/bin/activate
